@@ -1,0 +1,14 @@
+{
+  "name": "com.yourcompany.yourpackage",
+  "version": "0.0.1",
+  "displayName": "Your Package Name",
+  "description": "A brief description of what your package does.",
+  "url": "https://github.com/iwacchik/VRCPackageTemplate.git",
+  "unity": "2022.3",
+  "author": {
+    "name": "Your Name",
+    "email": "your-email@example.com"
+  },
+  "vpmDependencies": {
+  }
+}
